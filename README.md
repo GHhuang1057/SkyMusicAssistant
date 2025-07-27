@@ -1,14 +1,23 @@
-# SkyMusicAssistant
-光遇弹琴助手
-### 项目描述：
-* 让你更好的在Sky中装（bushi
+<div align="center">
+  <img src="icon.png" width="200" alt="SkyMusicAssistant Logo">
+  <h1>SkyMusicAssistant</h1>
+  <p>光遇弹琴助手</p>
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="GPL v3">
+  </a>
+</div>
+
+### 项目描述
 * 使用方法在应用中已经说明
-### 项目贡献：
+* 让你更好的在Sky中装（bushi
+### 项目贡献
 huang1057  项目负责人/创建者
 More.....期望您的加入！
+
 ### 作者的话
 合理使用，禁止用于任何违法的活动。
-### 项目声明：
+只是暂时性使用，还是认真练琴吧！
+### 项目声明
 本项目仅用于学习交流，不得用于任何违法的活动。
 
 ### 许可证声明  

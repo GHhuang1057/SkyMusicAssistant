@@ -1,3 +1,5 @@
+// Copyright (C) 2025 huang1057  
+// SPDX-License-Identifier: GPL-3.0-or-later  
 package com.huang1057.rskymusicassistant.ui
 
 import androidx.compose.foundation.background
